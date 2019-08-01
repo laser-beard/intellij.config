@@ -1,0 +1,275 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/470099323" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="/usr/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (traveloka_t)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/traveloka_t/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/traveloka_t/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/traveloka_t/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/traveloka_t/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1041885444" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/traveloka_t" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mobile)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="jar:///usr/local/lib/python3.6/dist-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/mobile" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (t36)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/PycharmProjects/t36/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/t36/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/t36/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/t36/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/62950907" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/t36" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mobile) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="jar:///usr/local/lib/python3.6/dist-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Документы/mobile" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="jar:///usr/local/lib/python3.6/dist-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/PycharmProjects/untitled2/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled2/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled2/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled2/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1377341137" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mobile) (3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/Документы/mobile/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Документы/mobile/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Документы/mobile/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Документы/mobile/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-179423994" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Документы/mobile" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (rabbit_ex)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/PycharmProjects/rabbit_ex/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/rabbit_ex/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/rabbit_ex/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/rabbit_ex/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-942606372" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/rabbit_ex" />
+    </jdk>
+  </component>
+</application>
