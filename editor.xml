@@ -10,4 +10,8 @@
       </map>
     </option>
   </component>
+  <component name="TodoConfiguration">
+    <pattern icon="important" pattern="\b(todo)\b.*" />
+    <pattern pattern="\b(fixme)\b.*" />
+  </component>
 </application>
