@@ -11,7 +11,12 @@
     </option>
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="important" pattern="\b(todo)\b.*" />
+    <pattern pattern="\b(todo)\b.*" />
     <pattern pattern="\b(fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\b(del)\b.*">
+      <option name="FOREGROUND" value="ff5954" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff857d" />
+    </pattern>
   </component>
 </application>
